@@ -1,18 +1,18 @@
-# Welcome
-Hello! I am Hamza Alsarakbi, a grade 12 student. I write programs as a hobby and a future software developer.
+# Hello 👋🏻
+I am Hamza Alsarakbi, a grade 12 student. I write programs as a hobby and a future software developer.
 
-# Languages
+# Languages 🗣
 - Arabic 🇸🇾
 - English 🇨🇦
 
-# Programming Languages
+# Programming Languages 👨🏻‍💻
 - JavaScript
 - Java
 - Python
 - C#
 - C++
 
-# Projects
+# Projects 
 ## PassVault - Released
 A full fledged password manager where your passwords are all stored in an encrypted file locally.
 
@@ -48,5 +48,5 @@ A dashboard for [smart mirrors](https://www.youtube.com/watch?v=RWjvJq4Zabk&t=8s
 
 [Repository link](https://github.com/Electr0d/MagicMirror)
 
-# Contact me
+# Contact me 📧
 - hamoz.sq78@gmail.com
