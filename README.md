@@ -10,7 +10,6 @@ I am Hamza Alsarakbi, a grade 12 student. I write programs as a hobby and a futu
 - Java
 - Python
 - C#
-- C++
 
 # Projects 
 ## PassVault - Released
