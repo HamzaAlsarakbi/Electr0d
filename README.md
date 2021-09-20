@@ -1,5 +1,5 @@
 # Hello 👋🏻
-I am Hamza Alsarakbi, a grade 12 student. I write programs as a hobby and a future software developer.
+I am Hamza Alsarakbi, a CS student at Carleton University. I write programs as a hobby and a future software developer.
 
 # Languages 🗣
 - Arabic 🇸🇾
@@ -42,10 +42,6 @@ Observations are recorded in README.
 
 [Repositor link](https://github.com/Electr0d/SortingAlgorithms)
 
-## Magic Mirror - In Development (Private)
-A dashboard for [smart mirrors](https://www.youtube.com/watch?v=RWjvJq4Zabk&t=8s). Includes thermostate and house temperature details, calendar, athan times, weather updates, clothes suggestions based on weather and more coming soon!
-
-[Repository link](https://github.com/Electr0d/MagicMirror)
 
 # Contact me 📧
 - hamoz.sq78@gmail.com
